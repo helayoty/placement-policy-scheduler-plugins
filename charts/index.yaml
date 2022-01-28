@@ -3,13 +3,24 @@ entries:
   placement-policy-scheduler-plugins:
   - apiVersion: v2
     appVersion: v0.1.0
-    created: "2022-01-14T21:09:48.94389065Z"
+    created: "2022-01-28T21:14:47.997038334Z"
+    description: A Helm chart for Kubernetes placement policy scheduler plugins
+    digest: 956191ae1e6a92e9e6b7d7fcc985daba2d97096007df64b985e8cd18f616d44e
+    kubeVersion: <=1.22.2
+    name: placement-policy-scheduler-plugins
+    type: application
+    urls:
+    - https://helayoty.github.io/placement-policy-scheduler-plugins/charts/placement-policy-scheduler-plugins-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: v0.1.0
+    created: "2022-01-28T21:14:47.996358834Z"
     description: A Helm chart for Kubernetes placement policy scheduler plugins
     digest: 96bd70c91acc6222378a2c3e6a45b5862899d83ae973b8566ce68f5c5b40eda5
     kubeVersion: <=1.22.2
     name: placement-policy-scheduler-plugins
     type: application
     urls:
-    - https://Azure.github.io/placement-policy-scheduler-plugins/charts/placement-policy-scheduler-plugins-0.1.0.tgz
+    - https://helayoty.github.io/placement-policy-scheduler-plugins/charts/placement-policy-scheduler-plugins-0.1.0.tgz
     version: 0.1.0
-generated: "2022-01-14T21:09:48.943321047Z"
+generated: "2022-01-28T21:14:47.995747033Z"
